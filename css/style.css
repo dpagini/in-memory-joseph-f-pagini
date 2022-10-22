@@ -1,3 +1,11 @@
+body {
+  text-align: center;
+}
+
+.headshot {
+  max-width: 200px;
+}
+
 .poem {
   width: 80%;
   text-align: center;
