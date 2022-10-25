@@ -2,4 +2,4 @@
 
 Tribute to Joey Pagini.
 
-http://brother.davidpagini.com/
+https://brother.davidpagini.com/
